@@ -16,7 +16,7 @@ if ($isUserHomePage):
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-4 mb-3 mb-md-0">
-                    <p class="mb-1"><i class="bi bi-heart-fill"></i> 本系统由姜琛开源</p>
+                    <p class="mb-1"><i class="bi bi-heart-fill"></i> 本系统由Tree开源</p>
                 </div>
                 <div class="col-md-4 mb-3 mb-md-0">
                     <p class="mb-1"><i class="bi bi-wechat"></i> 联系方式</p>
@@ -37,4 +37,5 @@ if ($isUserHomePage):
 <?php endif; ?>
 </body>
 </html>
+
 
